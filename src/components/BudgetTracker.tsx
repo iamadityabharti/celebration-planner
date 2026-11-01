@@ -345,3 +345,4 @@ export const BudgetTracker: React.FC<BudgetTrackerProps> = ({ budget, onUpdateBu
     </div>
   );
 };
+

@@ -365,3 +365,4 @@ export const VendorChecklist: React.FC<VendorChecklistProps> = ({
     </div>
   );
 };
+

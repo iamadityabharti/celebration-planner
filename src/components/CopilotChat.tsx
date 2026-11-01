@@ -211,3 +211,4 @@ export const CopilotChat: React.FC<CopilotChatProps> = ({
     </div>
   );
 };
+

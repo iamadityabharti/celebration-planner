@@ -194,3 +194,4 @@ export function exportEventPlanToPDF(plan: EventPlan) {
   const filename = `${plan.title.replace(/[^a-zA-Z0-9]/g, '_')}_Plan.pdf`;
   doc.save(filename);
 }
+

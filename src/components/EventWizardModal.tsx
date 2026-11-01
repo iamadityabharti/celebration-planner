@@ -288,3 +288,4 @@ export const EventWizardModal: React.FC<EventWizardModalProps> = ({
     </div>
   );
 };
+

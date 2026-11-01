@@ -141,3 +141,4 @@ export const EventHeader: React.FC<EventHeaderProps> = ({ plan }) => {
     </div>
   );
 };
+

@@ -439,3 +439,4 @@ Regarding **"${userQuery}"**:
 
 Would you like me to draft an announcement, calculate budget adjustments, or suggest specific vendor interview questions?`;
 }
+

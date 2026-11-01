@@ -119,3 +119,4 @@ Follow this structured script to record your <4-minute walkthrough video:
 
 ## 📜 License
 MIT License. Built with passion for unforgettable celebrations.
+
