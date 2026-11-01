@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 Live Web App & Resources
-- **Live Accessible URL**: [https://iamadityabharti.github.io/celebration-planner/](https://iamadityabharti.github.io/celebration-planner/)
+- **Live Accessible URL**: [https://celebrai-planner-app.netlify.app](https://celebrai-planner-app.netlify.app)
 - **GitHub Repository**: [https://github.com/iamadityabharti/celebration-planner](https://github.com/iamadityabharti/celebration-planner) (< 2 MB clean source)
 - **Walkthrough Demo Video**: `< 4 Minutes Video Demo` (See complete turnkey demo script below)
 
